@@ -1,0 +1,3 @@
+# About self
+
+With over 15 years of experience in the networking industry, I have developed a deep understanding of network design, implementation, and troubleshooting. My career has allowed me to work with a wide range of technologies and solutions, helping organizations build reliable and scalable network infrastructures. I am passionate about staying up-to-date with the latest advancements in networking and continuously improving my skills to deliver effective solutions.
